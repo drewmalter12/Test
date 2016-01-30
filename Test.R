@@ -1,0 +1,5 @@
+find.package("devtools")
+library(devtools)
+find_rtools()
+install.packages("KernSmooth")
+library(KernSmooth)
